@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/TheKartikShr/Calculator-App/static/css/main.b9f59058.css",
+    "main.js": "/TheKartikShr/Calculator-App/static/js/main.99c1c8de.js",
+    "static/js/787.20a0c589.chunk.js": "/TheKartikShr/Calculator-App/static/js/787.20a0c589.chunk.js",
+    "index.html": "/TheKartikShr/Calculator-App/index.html",
+    "main.b9f59058.css.map": "/TheKartikShr/Calculator-App/static/css/main.b9f59058.css.map",
+    "main.99c1c8de.js.map": "/TheKartikShr/Calculator-App/static/js/main.99c1c8de.js.map",
+    "787.20a0c589.chunk.js.map": "/TheKartikShr/Calculator-App/static/js/787.20a0c589.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b9f59058.css",
+    "static/js/main.99c1c8de.js"
+  ]
+}
